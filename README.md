@@ -25,7 +25,7 @@ Demonstration site showcasing HTML, CSS, Github repositories.
 
 ## License
 
-View LICENSE.txt for licensing details.
+<p><a href="LICENSE.txt">GNU</a></p>
 
 
 Copyright (c) _2022_ _Manuel Raygoza (s)_
